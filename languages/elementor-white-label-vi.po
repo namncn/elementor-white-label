@@ -1,0 +1,128 @@
+# Copyright (C) 2018 elementor-white-label
+# This file is distributed under the same license as the elementor-white-label package.
+msgid ""
+msgstr ""
+"Project-Id-Version: elementor-white-label\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Tiếng Việt\n"
+"Last-Translator: phoenixdigi <quantri@phoenixdigi.vn>\n"
+"Report-Msgid-Bugs-To: http://phoenixdigi.vn\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: 2018-08-04 16:35+0000\n"
+"PO-Revision-Date: 2018-08-04 16:40+0000\n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../includes/admin-settings.php:12,
+#: ../includes/class-elementor-white-label.php:147
+msgid "Elementor White Label"
+msgstr ""
+
+#: ../includes/admin-settings.php:24
+msgid "Plugin Name"
+msgstr ""
+
+#: ../includes/admin-settings.php:33
+msgid "Plugin Pro Name"
+msgstr ""
+
+#: ../includes/admin-settings.php:42
+msgid "Plugin Description"
+msgstr ""
+
+#: ../includes/admin-settings.php:50
+msgid "Developer / Agency Name"
+msgstr ""
+
+#: ../includes/admin-settings.php:58
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/admin-settings.php:66
+msgid "Elementor Menu Label"
+msgstr ""
+
+#: ../includes/admin-settings.php:74
+msgid "Edit with Elementor Text"
+msgstr ""
+
+#: ../includes/admin-settings.php:82
+msgid "Hide Elementor Plugin Row Meta & Action Link"
+msgstr ""
+
+#: ../includes/admin-settings.php:92
+msgid "Hide Elementor License page"
+msgstr ""
+
+#: ../includes/admin-settings.php:96, ../includes/admin-settings.php:106,
+#: ../includes/admin-settings.php:116, ../includes/admin-settings.php:126,
+#: ../includes/admin-settings.php:136
+msgid "Pro version only"
+msgstr "Chỉ có ở phiên bản trả phí"
+
+#: ../includes/admin-settings.php:102
+msgid "Hide Elementor Plugin"
+msgstr ""
+
+#: ../includes/admin-settings.php:112
+msgid "Hide Elementor Pro Plugin"
+msgstr ""
+
+#: ../includes/admin-settings.php:122
+msgid "Hide Elementor White Label Plugin"
+msgstr ""
+
+#: ../includes/admin-settings.php:132
+msgid "Hide Elementor White Label Setting Page"
+msgstr ""
+
+#: ../includes/admin-settings.php:143
+msgid ""
+"Update <a href=\"https://namncn.com/plugins/elementor-white-label-for-"
+"elementor/\" target=\"_blank\">PRO version here</a>."
+msgstr ""
+"Nâng cấp <a href=\"https://namncn.com/plugins/elementor-white-label-for-"
+"elementor/\" target=\"_blank\">phiên bản trả phí tại đây</a>."
+
+#: ../includes/admin-settings.php:152
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: ../includes/admin-settings.php:154
+msgid ""
+"For submitting any support queries, feedback, bug reports or feature "
+"requests, please visit <a href=\"https://namncn.com/lien-he/\" "
+"target=\"_blank\">this link</a>. Other great plugins by Nam Truong, please "
+"visit <a href=\"https://namncn.com/chuyen-muc/plugins/\" target=\"_blank\">"
+"this link</a>."
+msgstr ""
+"Để gửi mọi truy vấn hỗ trợ, phản hồi, báo cáo lỗi hoặc yêu cầu tính năng, "
+"vui lòng truy cập <a href=\"https://namncn.com/lien-he/\" target=\"_blank\">"
+"liên kết này</a>. Xem các plugin tuyệt vời khác của Nam Trương, vui lòng "
+"truy cập <a href=\"https://namncn.com/chuyen-muc/plugins/\" "
+"target=\"_blank\">liên kết này</a>."
+
+#: ../includes/class-elementor-white-label.php:132
+msgid "Settings updated!"
+msgstr "Đã lưu cài đặt!"
+
+#: ../includes/class-elementor-white-label.php:298
+msgid ""
+" Enjoyed <strong>Elementor White Label</strong>? Please leave us a <a "
+"href=\"https://namncn.com/plugins/elementor-white-label-for-elementor/\" "
+"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. We really "
+"appreciate your support!"
+msgstr ""
+"Bạn đã sử dụng <strong>Elementor White Label</ strong>? Vui lòng để lại cho "
+"chúng tôi đánh giá <a href=\"https://namncn.com/plugins/elementor-white-"
+"label-for-elementor/\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;"
+"</a>. Chúng tôi thực sự đánh giá cao sự hỗ trợ của bạn!"
